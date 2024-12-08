@@ -65,6 +65,25 @@
     </a>
   </div>
 
+  <h2 align="left">Certified Badges</h2>
+  
+<p align="center">
+    <a href="https://learn.microsoft.com/en-in/users/jawakarsri-8567/credentials/9467e5b897544874" target="_blank">
+      <img align="center" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="jyot" height="200" width="200" />
+    </a>
+    <a href="https://learn.microsoft.com/en-in/users/jawakarsri-8567/credentials/c88311d2533d7e16" target="_blank">
+      <img align="center" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="jyot" height="200" width="200" />
+    </a>
+    <a href="https://www.credly.com/badges/d917769d-eec6-408e-85fe-5222551967db/public_url" target="_blank">
+      <img align="center" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="jyot" height="200" width="200" />
+    </a>
+    <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=62478AF9051BF7F09D24D9798144B68341AE5B77DC30DB9EE58DF12B72C417F7" target="_blank">
+      <img align="center" src="https://education.oracle.com/file/general/Oracle_Professional_Badge_final.png" alt="jyot" height="200" width="200" />
+    </a>
+    <a href="https://leetcode.com/jawakarsri/" target="_blank">
+      <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-07.gif" alt="jyot" height="200" width="200" />
+     
+  </p>
   <!--START_SECTION:badges-->
   <!--
   [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/212394bc-88cf-486b-8173-5352bdcd2279 "Microsoft Certified: Azure Fundamentals")
