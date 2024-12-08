@@ -39,7 +39,20 @@
   <p align="center">
     <img align="top" flex-grow="1" src="https://leetcard.jacoblin.cool/jawakarsri?theme=dark&font=Be%20Vietnam%20Pro" alt="LeetCode Stats" />  
   </p>
+<br/>
+<div align="left">
+<details>
+    <summary>
+    <h2>⚡ Current Stats 📈 ⚡<h2>
+    </summary>
+    <br />
+    <div align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jawakarsri&theme=vue-dark&hide_border=true" alt="Github Stats">
+    </div>
+</details>
 
+<br />
+  <!--
   <h2 align="left">⚡ Current Stats ⚡</h2>
   <br>
   <div align="center">
@@ -49,6 +62,7 @@
   </div>
 
   <br/>
+  -->
 
 
   <h2 align="left">Certified Badges</h2>
@@ -67,28 +81,36 @@
       <img align="center" src="https://images.credly.com/size/680x680/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/image.png" alt="jyot" height="200" width="220" />
     </a>
     <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=62478AF9051BF7F09D24D9798144B68341AE5B77DC30DB9EE58DF12B72C417F7" target="_blank">
-      <img align="center" src="https://brm-workforce.oracle.com/pdf/certview/images/OCI2024GAIOCP.png" alt="jyot" height="200" width="380" />
+      <img align="center" src="https://brm-workforce.oracle.com/pdf/certview/images/OCI2024GAIOCP.png" alt="jyot" height="200" width="370" />
     </a>
     <a href="https://www.credly.com/badges/ccd805ab-f11f-48a9-af1e-776c98adcd74/public_url" target="_blank">
-      <img align="center" src="https://images.credly.com/size/220x220/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="jyot" height="250" width="250" />
+      <img align="center" src="https://images.credly.com/size/220x220/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="jyot" height="250" width="220" />
     </a>
   </p>
 
-  <h2 align="left">Socials - Let's Connect :)</h2>
-  <div align="center">
-    <a href="https://twitter.com/gregcodesstuff" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gregcodesstuff" height="30" width="40" />
-    </a>
-    <a href="https://linkedin.com/in/jawakarsri" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gregory-james" height="30" width="40" />
-    </a>
-    <a href="https://medium.com/@jawaharsri2003" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@thegregjames" height="30" width="40" />
-    </a>
-    <a href="https://www.leetcode.com/jawakarsri" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gregyjames" height="30" width="40" />
-    </a>
-  </div>
+<h2 align="left">Socials - Let's Connect :)</h2>
+<div align="center">
+   <!-- Email Icon -->
+  <a href="mailto:jawaharsri2003@gmail.com">
+    <img align="center" alt="Jawakar Sri's email" width="30px" src="https://res.cloudinary.com/cascandaliato/image/upload/v1608401930/gmail_jxi3lb.svg" />
+  </a>
+  <a href="https://twitter.com/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gregcodesstuff" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/jawakarsri" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gregory-james" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@jawaharsri2003" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@thegregjames" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/jawakarsri" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gregyjames" height="30" width="40" />
+  </a>
+ 
+</div>
+
+  
+
   <!--START_SECTION:badges-->
   <!--
   [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/212394bc-88cf-486b-8173-5352bdcd2279 "Microsoft Certified: Azure Fundamentals")
