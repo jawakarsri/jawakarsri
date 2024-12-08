@@ -41,15 +41,18 @@
   </p>
 <br/>
 <div align="left">
-<details>
-    <summary>
-    <h2>⚡ Current Stats 📈 ⚡<h2>
-    </summary>
-    <br />
-    <div align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jawakarsri&theme=vue-dark&hide_border=true" alt="Github Stats">
-    </div>
-</details>
+    <details>
+      <summary>
+        <h2>⚡ Current Stats 📈 ⚡</h2>
+      </summary>
+      <hr style="border-top: 2px solid #ccc; width: 100%; margin: 20px 0;" />
+      <div align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jawakarsri&theme=vue-dark&hide_border=true" alt="Github Stats">
+      </div>
+    </details>
+    <br/>
+  </div>
+
 
 <br />
   <!--
@@ -92,19 +95,19 @@
 <div align="center">
    <!-- Email Icon -->
   <a href="mailto:jawaharsri2003@gmail.com">
-    <img align="center" alt="Jawakar Sri's email" width="30px" src="https://res.cloudinary.com/cascandaliato/image/upload/v1608401930/gmail_jxi3lb.svg" />
+    <img align="center" alt="Jawakar Sri's email" width="60px" src="https://res.cloudinary.com/cascandaliato/image/upload/v1608401930/gmail_jxi3lb.svg" height="80" width="100" />
   </a>
   <a href="https://twitter.com/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gregcodesstuff" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gregcodesstuff" height="60" width="80" />
   </a>
   <a href="https://linkedin.com/in/jawakarsri" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gregory-james" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gregory-james" height="60" width="80" />
   </a>
   <a href="https://medium.com/@jawaharsri2003" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@thegregjames" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@thegregjames" height="60" width="80" />
   </a>
   <a href="https://www.leetcode.com/jawakarsri" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gregyjames" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gregyjames" height="60" width="80" />
   </a>
  
 </div>
