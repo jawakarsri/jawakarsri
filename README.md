@@ -1,8 +1,8 @@
 <div align="center"> 
 
-  <h2 align="left">Hi, I'm Jawa!</h2>
+  <h1 align="left">Hi, I'm Jawa!</h1>
 
-  <h2 align="left">Leetcode Info</h2>  
+  <h1 align="centre">Leetcode Info</h1>  
   <p align="center">
     <a href="https://leetcode.com/jawakarsri/" target="_blank">
       <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" />
@@ -37,9 +37,17 @@
   </p>
 
   <p align="center">
-    <img align="top" flex-grow="1" src="https://leetcard.jacoblin.cool/jawakarsri?theme=dark&font=Be%20Vietnam%20Pro" alt="LeetCode Stats" />  
+    <img align="top" flex-grow="1" src="https://leetcard.jacoblin.cool/jawakarsri?theme=light&font=Be%20Vietnam%20Pro" alt="LeetCode Stats" />  
+     
   </p>
+  <p>
+     <a href="https://www.geeksforgeeks.org/user/jawaharsmacl">
+  <img src="https://gfgstatscard.vercel.app/jawaharsmacl?theme=light" alt="GFG stats" />
+</a>
+  </p>
+  
 <br/>
+
 <div align="left">
     <details>
       <summary>
@@ -47,12 +55,11 @@
       </summary>
       <hr style="border-top: 2px solid #ccc; width: 100%; margin: 20px 0;" />
       <div align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jawakarsri&theme=vue-dark&hide_border=true" alt="Github Stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jawakarsri&theme=blueberry&hide_border=false" alt="Github Stats">
       </div>
     </details>
     <br/>
   </div>
-
 
 <br />
   <!--
