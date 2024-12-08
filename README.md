@@ -1,6 +1,7 @@
 <div align="center"> 
 
-  <h1 align="left">Hi, I'm Jawa!</h1>
+  <h1 align="left">Hi, I'm Jawa</h1><h2 align="left">Let's build something extraordinary together! </h2>
+  
 
   <h1 align="centre">Leetcode Info</h1>  
   <p align="center">
@@ -42,6 +43,7 @@
   </p>
   <p>
      <a href="https://www.geeksforgeeks.org/user/jawaharsmacl">
+         <h1 align="centre">Geeks For Geeks Info</h1>  
   <img src="https://gfgstatscard.vercel.app/jawaharsmacl?theme=light" alt="GFG stats" />
 </a>
   </p>
