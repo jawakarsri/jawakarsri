@@ -1,9 +1,9 @@
 <div align="center"> 
 
-  <h1 align="left">Hi, I'm Jawa</h1><h2 align="left">Let's build something extraordinary together! </h2>
+  <h1 align="left">Hi, I'm Jawa</h1><h3 align="left">Let's build something extraordinary together! </h3>
   
 
-  <h1 align="centre">Leetcode Info</h1>  
+  <h1 align="centre">Leetcode Badges</h1>  
   <p align="center">
     <a href="https://leetcode.com/jawakarsri/" target="_blank">
       <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" />
@@ -37,6 +37,8 @@
     </a>
   </p>
 
+  <h1 align="centre">Leetcode Info</h1>  
+
   <p align="center">
     <img align="top" flex-grow="1" src="https://leetcard.jacoblin.cool/jawakarsri?theme=light&font=Be%20Vietnam%20Pro" alt="LeetCode Stats" />  
      
@@ -53,7 +55,7 @@
 <div align="left">
     <details>
       <summary>
-        <h2>⚡ Current Stats 📈 ⚡</h2>
+        <h2>⚡ Current Stats 📈 ⚡⬇</h2>
       </summary>
       <hr style="border-top: 2px solid #ccc; width: 100%; margin: 20px 0;" />
       <div align="center">
