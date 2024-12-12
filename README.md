@@ -40,7 +40,7 @@
   <h1 align="centre">Leetcode Info</h1>  
 
   <p align="center">
-    <img align="top" flex-grow="1" src="https://leetcard.jacoblin.cool/jawakarsri?theme=light&font=Be%20Vietnam%20Pro" alt="LeetCode Stats" />  
+    <img align="top" flex-grow="1" src="https://leetcard.jacoblin.cool/jawakarsri?theme=light&font=Ubuntu%20Condensed&ext=heatmap" alt="LeetCode Stats" />  
      
   </p>
   <p>
