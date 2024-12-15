@@ -1,21 +1,16 @@
-<div align="center"> 
 
-  <h1 align="left">Hi, I'm Jawa</h1><h3 align="left">Let's build something extraordinary together! </h3>
-  
 
-  <h1 align="centre">Leetcode Badges</h1>  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=DCFFC7&background=F9FBE700&width=435&lines=Hi!+This+is+Jawa+:};Welcome+,+Collaborating+to+create+innovative+tech;Let's+Connect+Together.)](https://git.io/typing-svg)
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>  Let's Connect to Build Something Extraordinarily Innovative Together!
+
+<h1 align="centre">LeetCode Badges</h1>  
   <p align="center">
     <a href="https://leetcode.com/jawakarsri/" target="_blank">
       <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" />
     </a>
     <a href="https://leetcode.com/jawakarsri/" target="_blank">
       <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" />
-    </a>
-    <a href="https://leetcode.com/jawakarsri/" target="_blank">
-      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" />
-    </a>
-    <a href="https://leetcode.com/jawakarsri/" target="_blank">
-      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" />
     </a>
     <a href="https://leetcode.com/jawakarsri/" target="_blank">
       <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-07.gif" alt="jyot" height="200" width="200" />
@@ -35,9 +30,16 @@
     <a href="https://leetcode.com/jawakarsri/" target="_blank">
       <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" alt="jyot" height="200" width="200" />
     </a>
+    <a href="https://leetcode.com/jawakarsri/" target="_blank">
+      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" />
+    </a>
+    <a href="https://leetcode.com/jawakarsri/" target="_blank">
+      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" />
+    </a>
+    
   </p>
 
-  <h1 align="centre">Leetcode Info</h1>  
+  <h1 align="centre">LeetCode Info</h1>  
 
   <p align="center">
     <img align="top" flex-grow="1" src="https://leetcard.jacoblin.cool/jawakarsri?theme=light&font=Ubuntu%20Condensed&ext=heatmap" alt="LeetCode Stats" />  
