@@ -61,7 +61,7 @@
       </summary>
       <hr style="border-top: 2px solid #ccc; width: 100%; margin: 20px 0;" />
       <div align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jawakarsri&theme=blueberry&hide_border=false" alt="Github Stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=jawakarsri&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Github Stats">
       </div>
     </details>
     <br/>
