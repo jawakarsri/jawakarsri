@@ -38,17 +38,17 @@
     </a>
     
   </p>
-
+  <a href="http://leetcode.com/jawakarsri/">
   <h1 align="centre">LeetCode Info</h1>  
 
   <p align="center">
     <img align="top" flex-grow="1" src="https://leetcard.jacoblin.cool/jawakarsri?theme=light&font=Ubuntu%20Condensed&ext=heatmap" alt="LeetCode Stats" />  
      
   </p>
-  <p>
      <a href="https://www.geeksforgeeks.org/user/jawaharsmacl">
-         <h1 align="centre">Geeks For Geeks Info</h1>  
-  <img src="https://gfgstatscard.vercel.app/jawaharsmacl?theme=light" alt="GFG stats" />
+         <h1 align="centre">Geeks For Geeks Info</h1> 
+  <p align="center">
+    <img src="https://gfgstatscard.vercel.app/jawaharsmacl?theme=light" alt="GFG stats" />
 </a>
   </p>
   
@@ -60,15 +60,22 @@
         <h2>⚡ Current Stats 📈 ⚡⬇</h2>
       </summary>
       <hr style="border-top: 2px solid #ccc; width: 100%; margin: 20px 0;" />
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=jawakarsri&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Github Stats">
-      </div>
+      <a href="https://github.com/jawakarsri/github-readme-stats"><img alt="Adarsh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jawakarsri&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/jawakarsri/github-readme-stats"><img alt="jawakarsri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawakarsri&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
     </details>
     <br/>
   </div>
 
-<br />
+
+
+
+
+
   <!--
+  <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=jawakarsri&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Github Stats">
+      </div>
+      
   <h2 align="left">⚡ Current Stats ⚡</h2>
   <br>
   <div align="center">
