@@ -62,7 +62,6 @@
       <hr style="border-top: 2px solid #ccc; width: 100%; margin: 20px 0;" />
       <a href="https://github.com/jawakarsri/github-readme-stats"><img alt="Adarsh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jawakarsri&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/jawakarsri/github-readme-stats"><img alt="jawakarsri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawakarsri&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-      <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
     </details>
     <br/>
   </div>
