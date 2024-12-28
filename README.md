@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=DCFFC7&background=F9FBE700&width=435&lines=Hi!+This+is+Jawa+:};Welcome+,+Collaborating+to+create+innovative+tech;Let's+Connect+Together.)](https://git.io/typing-svg)
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>  Let's Connect to Build Something Extraordinarily Innovative Together!
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h1 align="centre">LeetCode Badges</h1>  
   <p align="center">
     <a href="https://leetcode.com/jawakarsri/" target="_blank">
@@ -70,7 +70,6 @@
 
 
 
-
   <!--
   <div align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=jawakarsri&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Github Stats">
@@ -110,7 +109,6 @@
       <img align="center" src="https://images.credly.com/size/220x220/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="jyot" height="250" width="220" />
     </a>
   </p>
-
 <h2 align="left">Socials - Let's Connect :)</h2>
 <div align="center">
    <!-- Email Icon -->
