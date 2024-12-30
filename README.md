@@ -109,6 +109,8 @@
       <img align="center" src="https://images.credly.com/size/220x220/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="jyot" height="250" width="220" />
     </a>
   </p>
+  ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>  Let's Connect to Build Something Extraordinarily Innovative Together!
+
 <h2 align="left">Socials - Let's Connect :)</h2>
 <div align="center">
    <!-- Email Icon -->
