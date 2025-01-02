@@ -108,6 +108,9 @@
     <a href="https://www.credly.com/badges/ccd805ab-f11f-48a9-af1e-776c98adcd74/public_url" target="_blank">
       <img align="center" src="https://images.credly.com/size/220x220/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="jyot" height="250" width="220" />
     </a>
+    <a href="src/2023-07_Badge_SF-Certified_AI-Associate_High-Res.png" target="_blank">
+      <img align="center" src="src/2023-07_Badge_SF-Certified_AI-Associate_High-Res.png" alt="jyot" height="200" width="200" />
+    </a>
   </p>
   ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>  Let's Connect to Build Something Extraordinarily Innovative Together!
 
