@@ -91,25 +91,28 @@
   
 <p align="center">
     <a href="https://learn.microsoft.com/en-in/users/jawakarsri-8567/credentials/9467e5b897544874" target="_blank">
-      <img align="center" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="jyot" height="200" width="200" />
+      <img align="center" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="jyot" height="200" width="220" />
     </a>
     <a href="https://learn.microsoft.com/en-in/users/jawakarsri-8567/credentials/c88311d2533d7e16" target="_blank">
-      <img align="center" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="jyot" height="200" width="200" />
+      <img align="center" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="jyot" height="200" width="220" />
     </a>
     <a href="https://www.credly.com/badges/d917769d-eec6-408e-85fe-5222551967db/public_url" target="_blank">
-      <img align="center" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="jyot" height="200" width="200" />
+      <img align="center" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="jyot" height="200" width="220" />
     </a>
     <a href="https://www.credly.com/badges/e2c5e612-a0b4-4914-86c1-377ffb99b12e/public_url" target="_blank">
       <img align="center" src="https://images.credly.com/size/680x680/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/image.png" alt="jyot" height="200" width="220" />
     </a>
     <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=62478AF9051BF7F09D24D9798144B68341AE5B77DC30DB9EE58DF12B72C417F7" target="_blank">
-      <img align="center" src="https://brm-workforce.oracle.com/pdf/certview/images/OCI2024GAIOCP.png" alt="jyot" height="200" width="370" />
+      <img align="center" src="https://brm-workforce.oracle.com/pdf/certview/images/OCI2024GAIOCP.png" alt="jyot" height="180" width="320" />
     </a>
     <a href="https://www.credly.com/badges/ccd805ab-f11f-48a9-af1e-776c98adcd74/public_url" target="_blank">
-      <img align="center" src="https://images.credly.com/size/220x220/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="jyot" height="250" width="220" />
+      <img align="center" src="https://images.credly.com/size/220x220/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="jyot" height="180" width="160" />
     </a>
     <a href="src/2023-07_Badge_SF-Certified_AI-Associate_High-Res.png" target="_blank">
-      <img align="center" src="src/2023-07_Badge_SF-Certified_AI-Associate_High-Res.png" alt="jyot" height="200" width="200" />
+      <img align="center" src="src/2023-07_Badge_SF-Certified_AI-Associate_High-Res.png" alt="jyot" height="180" width="180" />
+    </a>
+    <a href="src/2023-07_Badge_SF-Certified_AI-Associate_High-Res.png" target="_blank">
+      <img align="center" src="src/2024-06_Badge_SF-Certified_AI-Specialist_High-Res.png" alt="jyot" height="180" width="180" />
     </a>
   </p>
   ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>  Let's Connect to Build Something Extraordinarily Innovative Together!
