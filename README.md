@@ -103,7 +103,7 @@
       <img align="center" src="https://images.credly.com/size/680x680/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/image.png" alt="jyot" height="200" width="220" />
     </a>
     <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=62478AF9051BF7F09D24D9798144B68341AE5B77DC30DB9EE58DF12B72C417F7" target="_blank">
-      <img align="center" src="https://brm-workforce.oracle.com/pdf/certview/images/OCI2024GAIOCP.png" alt="jyot" height="180" width="320" />
+      <img align="center" src="https://brm-workforce.oracle.com/pdf/certview/images/OCI2024GAIOCP.png" alt="jyot" height="180" width="360" />
     </a>
     <a href="https://www.credly.com/badges/ccd805ab-f11f-48a9-af1e-776c98adcd74/public_url" target="_blank">
       <img align="center" src="https://images.credly.com/size/220x220/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="jyot" height="180" width="160" />
