@@ -115,7 +115,6 @@
       <img align="center" src="src/2024-06_Badge_SF-Certified_AI-Specialist_High-Res.png" alt="jyot" height="180" width="180" />
     </a>
   </p>
-  ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>  Let's Connect to Build Something Extraordinarily Innovative Together!
 
 <h2 align="left">Socials - Let's Connect :)</h2>
 <div align="center">
